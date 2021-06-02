@@ -69,7 +69,6 @@ notebook==6.4.0
 numpy==1.19.5
 oauth==1.0.1
 olefile==0.45.1
-openshot-qt==2.4.1
 packaging==20.9
 pandas==1.1.5
 pandocfilters==1.4.3

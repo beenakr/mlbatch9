@@ -21,7 +21,6 @@ cryptography==2.1.4
 cssmin==0.2.0
 cssselect==1.0.3
 cssutils==1.0.2
-cupshelpers==1.0
 cycler==0.10.0
 dataclasses==0.8
 decorator==4.1.2

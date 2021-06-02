@@ -115,7 +115,6 @@ six==1.11.0
 smmap==4.0.0
 statistics==1.0.3.5
 streamlit==0.82.0
-system-service==0.3
 systemd-python==234
 terminado==0.10.0
 testpath==0.5.0
